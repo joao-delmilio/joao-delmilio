@@ -1,5 +1,3 @@
-## Boas-vindas ao meu perfil!
-
 ## 🚀 About Me
 Sou tecnólogo em Análise e Desenvolvimento de Sistemas, atualmente meus estudos são voltados para a área do full stack, com foco em C#.
 
