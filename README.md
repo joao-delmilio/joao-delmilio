@@ -1,7 +1,7 @@
 ## 🚀 About Me
 Sou tecnólogo em Análise e Desenvolvimento de Sistemas, atualmente estou estudando front end com JavaScript e React.
 
-Você pode vistar o meu portfólio em []()
+Você pode vistar o meu currículo em []()
 
 ## 💻 Tech Stack:
 
