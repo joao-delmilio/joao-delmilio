@@ -1,7 +1,7 @@
 ## 🚀 About Me
 Sou tecnólogo em Análise e Desenvolvimento de Sistemas, atualmente estou estudando front end com JavaScript e React.
 
-Você pode vistar o meu currículo em []()
+Você pode vistar o meu currículo em [joao-delmilio.github.io](https://joao-delmilio.github.io/)
 
 ## 💻 Tech Stack:
 
